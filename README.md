@@ -14,5 +14,5 @@ This employee management system consists of a Angular Front End and a Spring Boo
 3. Database - PostgreSQL and Spring JPA
 4. Front End Notifications - SweetAlert JS Library
 
-![Cat](https://raw.githubusercontent.com/{hashinidesilva}/{Employee-Management-System/{Functioning Images}/skill.gif)
+![Cat](https://raw.githubusercontent.com/{hashinidesilva}/{Employee-Management-System/{FunctioningImages}/skill.gif)
 
