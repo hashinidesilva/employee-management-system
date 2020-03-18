@@ -20,7 +20,7 @@ This employee management system consists of a Angular Front End and a Spring Boo
 ![](create_employee.gif)
 
 ## View all employees
-![](view_employee.gif)
+![](View_employee.gif)
 
 ## Deleting an employee
 ![](delete.gif)
